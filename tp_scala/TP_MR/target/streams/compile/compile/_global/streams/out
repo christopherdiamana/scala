@@ -1,0 +1,6 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/christopher/Documents/EPITA/ING 2/SCALA/TP_MR/src/main/scala/TP_MR.scala:121:134: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Double[0m
+[0m[[0m[31merror[0m] [0m[0m required: Option[Double][0m
+[0m[[0m[31merror[0m] [0m[0m  def average(values: Iterator[Double]): Option[Double] = values.map(e => (e, 1)).reduce((e1, e2) => (e1._1 + e2._1, e1._2 + e2._2))._1// {(sum, nb_elt) => sum + nb_elt}[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                                                                     ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
