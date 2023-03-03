@@ -8,7 +8,7 @@ This repository contains the exercises, TP (Travaux Pratiques), and project done
 - [Exercise 2](https://github.com/christopherdiamana/scala/tree/main/1_exercice2)
 - [TP](https://github.com/christopherdiamana/scala/tree/main/3_tp_scala/TP_MR)
 - [Spark Project](https://github.com/christopherdiamana/scala/tree/main/4_spark_project_peaceland)
-- [How to Use](https://github.com/christopherdiamana/scala/edit/main/README.md#how-to-use)
+- [How to Use](https://github.com/christopherdiamana/scala#how-to-use)
 
 ## Exercise 1 and 2
 
