@@ -29,7 +29,7 @@ To use this repository, you can clone this repository by running the following c
 git clone https://github.com/christopherdiamana/scala.git
 ```
 
-Once you have cloned the repository, you can navigate to the relevant folder (exercise1, exercise2, tp_scala or spark_project_peaceland) and run the code. 
+Once you have cloned the repository, you can navigate to the relevant folder (exercice1, exercice2, tp_scala or spark_project_peaceland) and run the code. 
 
 For example, to compile and run an exercise in the exercise1 folder, you can import the project into your preferred Scala IDE, such as IntelliJ IDEA or Eclipse, and run the code from there.
 
